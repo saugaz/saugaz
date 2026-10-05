@@ -15,7 +15,7 @@
 - 🌱 Currently learning: **C Programming**
 - 💻 Interested in: **Programming & Technology**
 - 🎬 Hobbies & Interests: **Video Editing | Gaming | Walking**
-- 📸 Instagram: **[@saugaz](https://www.instagram.com/saugaz/)**
+- 📸 Instagram: **[@saugaz](https://www.instagram.com/saugaz_/)**
 
 ## 🌐 Connect With Me
 
