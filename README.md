@@ -20,7 +20,7 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.instagram.com/saugaz/" target="_blank">
+  <a href="https://www.instagram.com/saugaz_/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
